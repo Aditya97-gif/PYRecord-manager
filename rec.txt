@@ -1,0 +1,3 @@
+Name: Ramesh, Age: 22, Department: Mech
+Name: Rakesh, Age: 23, Department: ECE
+Name: Ram, Age: 24, Department: CSE
